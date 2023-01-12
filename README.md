@@ -5,6 +5,9 @@ Welcome to my page! I'm from Taiwan and currently a PhD canditate at Baylor Coll
 <p align="center">
 <a href="https://twitter.com/ChunWeiChen7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ChunWeiChen7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chun-wei-chen-267919158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chun-wei-chen-267919158" height="30" width="40" /></a>
+<a href="890144chunwei@gmail.com" target="blank"><img align="center" src="https://github.com/890144chunwei/890144chunwei/blob/main/images/Gmail.png" alt="890144chunwei" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
