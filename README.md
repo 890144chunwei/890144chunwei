@@ -9,7 +9,7 @@ Thanks for visiting and I'd love to connect with you
 <a href="https://linkedin.com/in/chun-wei-chen-267919158" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chun-wei-chen-267919158" height="30" width="40" /></a>
 <a href="https://github.com/890144chunwei" target="blank"><img align="left" src="https://github.com/890144chunwei/890144chunwei/blob/main/images/Github.png" alt="890144chunwei" height="30" width="40" /></a>
 <a href="mailto:890144chunwei@gmail.com" target="blank"><img align="left" src="https://github.com/890144chunwei/890144chunwei/blob/main/images/Gmail.png" alt="890144chunwei" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=Rpncn9EAAAAJ&hl=en" target="blank"><img align="left" src="https://github.com/890144chunwei/890144chunwei/blob/main/images/Google%20Scholar.png" alt="890144chunwei" height="30" width="40" />
+<a href="https://scholar.google.com/citations?user=Rpncn9EAAAAJ&hl=en" target="blank"><img align="left" src="https://github.com/890144chunwei/890144chunwei/blob/main/images/Google%20Scholar.png" alt="890144chunwei" height="30" width="40">
 
 
 Languages and Tools
