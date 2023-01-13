@@ -7,7 +7,7 @@ Welcome to my page! I'm from Taiwan and currently a PhD canditate at Baylor Coll
 
 More about me
 -----
-📖 My goal and motivation is to learn new things everyday.
+📖 The goal motivatiing me is to learn new things everyday.
 
 💻 I love working in Computational Biology and see how it's impacting the world!
 
