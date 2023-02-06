@@ -1,7 +1,7 @@
 # [![header](https://github.com/890144chunwei/890144chunwei/blob/main/images/Github%20banner.PNG)](https://github.com/890144chunwei)
 
 
-# Hello, I am Chun-Wei-Chen 👋
+# Hello, I am Alan (Chun-Wei) Chen 👋
 Welcome to my page! I'm from Taiwan and currently a PhD canditate at Baylor College of Medicine, Houston, TX. I research on Genomics, Epigenomics, Cancer Biology using Next-Generation Sequencing and Bioinformatics tools. I love to learn new Sequencing techniques and explore how Computational Biology can enlight us more about the aging process and the formation of diseases. My goal is to contribute towards a better understanding of Biology and improvement of health care. 
 
 
