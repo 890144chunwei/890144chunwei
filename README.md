@@ -1,4 +1,4 @@
-# [![header](https://github.com/890144chunwei/890144chunwei/blob/main/images/Github%20banner.PNG)](https://github.com/890144chunwei)
+# [![header](https://github.com/890144chunwei/890144chunwei/blob/main/images/Banner.PNG)](https://github.com/890144chunwei)
 
 
 # Hello, I am Alan (Chun-Wei) Chen 👋
